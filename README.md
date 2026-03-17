@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Uriel%20Candelas&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=a0a0b0)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Uriel%20Candelas&strokeWidth=2&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
+
 # Hi, I'm Uriel Candelas 👋
 
 > Computer Engineering student driven by curiosity and a genuine passion for building — from scalable systems and full-stack applications to AI-powered solutions. I'm constantly learning, experimenting with new technologies, and turning ideas into real projects.
@@ -78,5 +79,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=UrielCandelasMeza&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
