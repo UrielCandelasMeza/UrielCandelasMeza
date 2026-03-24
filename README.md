@@ -66,7 +66,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UrielCandelasMeza&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=UrielCandelasMeza&theme=rose_pine&hide_border=true&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=UrielCandelasMeza&theme=rose_pine&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielCandelasMeza&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
